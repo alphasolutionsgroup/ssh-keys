@@ -3,3 +3,9 @@ ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPgGNv3j9fLiy6tf7tl//sGZjNXBCtJrgUlbMM9Mw3Jr
 
 # Shane, giga
 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIG2pjBkplZJ6HtLcORRva583NpJR9e8prpdDg9Wlg//d shane@giga
+
+# Shane, on the fleet-01 office VM (runs fleet)
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBDznT9TuoOpTQQdb263l6G7oH7MHRwm6mE0e4NSdFSV shane@fleet-01
+
+# Len, on the fleet-01 office VM (runs fleet)
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIC5ZS7hehcLQO0OO54erfipjRkEkn0wX431QZubh9GV7 len@fleet-01
