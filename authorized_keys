@@ -7,6 +7,8 @@ ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIG2pjBkplZJ6HtLcORRva583NpJR9e8prpdDg9Wlg//d
 # Shane, on the fleet-01 office VM (runs fleet)
 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBDznT9TuoOpTQQdb263l6G7oH7MHRwm6mE0e4NSdFSV shane@fleet-01
 
-# Len, on the fleet-01 office VM (runs fleet)
+# Len
 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIC5ZS7hehcLQO0OO54erfipjRkEkn0wX431QZubh9GV7 len@fleet-01
 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILdweVLsiB6VNps15LYYgrNfCzh6DsT84YH2qbMamfPl len.groves@LAPTOP-MA8UI5QC
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIH33BQgMKD8Oz7aRjUhTV6WUE1euTSRDyQg2l8nLpXy4 len@lenovo
+
